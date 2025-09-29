@@ -1,0 +1,12 @@
+a="34"
+b=34
+c=int(b)
+print(a)
+print(type(a))
+print(b)
+print(type(b))
+print(c)
+print(type(c))
+e=str(float(a))
+print(e)
+print(type(e))
