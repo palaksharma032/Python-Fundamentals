@@ -1,6 +1,6 @@
 # Python-Fundamentals learning log
 This repository tracks my journey as I master the foundational concepts of python for Data Science and AI.
-The files here contain my practice exercises from my current course/ learning modules, covering:
+The files here contain practice exercises from my current course/ learning modules, covering:
 - Basic syntax
 - Data Types
 - User Interaction and more as I progress!
