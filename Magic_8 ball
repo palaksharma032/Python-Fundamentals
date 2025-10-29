@@ -1,0 +1,25 @@
+# Magic ball (Yes/ No)
+import random
+Question=input("Enter Your Question:")
+Answer = random.randint(1,9)
+if Answer==1:
+  print("Yes-definately")
+elif Answer==2:
+  print("No")
+elif Answer==3:
+  print("Not sure")
+elif Answer==4:
+  print("Reply Hazy, Try again")
+elif Answer==5:
+  print("Without a doubt")
+elif Answer==6:
+  print("Better not tell")
+elif Answer==7:
+  print("My sources say no")
+elif Answer==8:
+  print("Outlook not so good")
+elif Answer==9 :
+  print("Very doubtful")
+
+
+
